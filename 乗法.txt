@@ -1,4 +1,4 @@
-﻿0~9の2乗のグラフ作成
+0~9の2乗のグラフ作成
 
 *
 ****
@@ -7,4 +7,21 @@
 *************************
 
 
+<<<<<<< HEAD
+的な感じ
+
+awの回答
+public class Main {
+	public static void main(String[] args){
+		for(int i=0;i<10;i++){
+			int j=i*i;
+			for(int k=0;k<j;k++){
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+	}
+}
+=======
 的な感じdayo
+>>>>>>> 51fb3c6410f851971fd5d4547446de04e6d99e52

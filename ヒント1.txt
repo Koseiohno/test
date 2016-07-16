@@ -1,0 +1,10 @@
+﻿int t,mark,num,card[3][12];
+scanf("%c %d",&mark,&num);
+t=num-1
+switch(mark){
+case `S`:
+card[0][t]=?;break;
+card[1][t]=?;break;
+card[2][t]=?;break;
+card[3][t]=?;break;
+}

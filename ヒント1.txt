@@ -4,7 +4,10 @@ t=num-1
 switch(mark){
 case `S`:
 card[0][t]=?;break;
+case `H`:
 card[1][t]=?;break;
+case `C`:
 card[2][t]=?;break;
+case `D`:
 card[3][t]=?;break;
 }
